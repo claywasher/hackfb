@@ -11,3 +11,4 @@ pip2 install os
 pip2 install sys
 pip2 install mechanize
 termux-setup-storage
+pkg install nano
